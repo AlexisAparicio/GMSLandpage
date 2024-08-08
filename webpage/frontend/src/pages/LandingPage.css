@@ -7,6 +7,11 @@
     background: linear-gradient(to bottom, white, orange);
     text-align: center;
   }
+
+  .landing-container img{
+    width: 35%;
+    height: 15%;
+  }
   
   .landing-container h1 {
     font-size: 3em;
