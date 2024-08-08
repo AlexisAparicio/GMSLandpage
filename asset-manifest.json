@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/GMSLandpage/static/css/main.4b55efed.css",
-    "main.js": "/GMSLandpage/static/js/main.c00b735b.js",
+    "main.css": "/GMSLandpage/static/css/main.514c35ec.css",
+    "main.js": "/GMSLandpage/static/js/main.92de3fc6.js",
     "static/js/453.8ab44547.chunk.js": "/GMSLandpage/static/js/453.8ab44547.chunk.js",
     "index.html": "/GMSLandpage/index.html",
-    "main.4b55efed.css.map": "/GMSLandpage/static/css/main.4b55efed.css.map",
-    "main.c00b735b.js.map": "/GMSLandpage/static/js/main.c00b735b.js.map",
+    "main.514c35ec.css.map": "/GMSLandpage/static/css/main.514c35ec.css.map",
+    "main.92de3fc6.js.map": "/GMSLandpage/static/js/main.92de3fc6.js.map",
     "453.8ab44547.chunk.js.map": "/GMSLandpage/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b55efed.css",
-    "static/js/main.c00b735b.js"
+    "static/css/main.514c35ec.css",
+    "static/js/main.92de3fc6.js"
   ]
 }
