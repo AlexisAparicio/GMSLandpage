@@ -29,7 +29,7 @@ exports.register = async (req, res) => {
 
     jwt.sign(
       payload,
-      'secret', // Cambia esto a una clave secreta real
+      process.env.JWT_SECRET, // Clave secreta para firmar el token
       { expiresIn: 360000 },
       (err, token) => {
         if (err) throw err;
@@ -64,7 +64,7 @@ exports.login = async (req, res) => {
 
     jwt.sign(
       payload,
-      'secret', // Cambia esto a una clave secreta real
+      process.env.JWT_SECRET, // Clave secreta para firmar el token
       { expiresIn: 360000 },
       (err, token) => {
         if (err) throw err;
